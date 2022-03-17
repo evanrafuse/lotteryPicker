@@ -1,0 +1,2 @@
+Lottery Picker
+Yeah so, before I start every major school project I buy a lottery ticket, and then if I win I retire to a leisurely life of excess and debauchery, and I don't have to do the project. And I never know which numbers to pick so I made this PHP app to do it. I just put in 7 characters like "!CA$H!" and it gives me 7 unique numbers to pick for the ticket. And then if I win I can tell people I made millions as a Web Developer.
